@@ -23,7 +23,7 @@
 ## 🎯 Goals for 2025
 - Build a portfolio of impactful projects.
 - Contribute to open-source projects.
-- Maintain a 9.5+ CGPA while excelling in technical and soft skills.
+- Secure a 9+ CGPA while excelling in technical and soft skills.
 ## 📫 Let’s Connect!
 
 - 🌟 Check out my repositories to explore my journey in tech. Contributions and feedback are always welcome!
