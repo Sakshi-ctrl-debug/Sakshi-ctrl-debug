@@ -12,7 +12,7 @@
 
 - Intelligent Traffic Management System – Optimizing urban traffic with predictive analytics.
 ## 💻 Tech Stack
-- Programming: Python, C, C++, Java
+- Programming: Python, C, C++
 - Tools & Platforms: ESP32, OpenCV, MATLAB, Cisco Packet Tracer
 - Interests: IoT, Embedded Systems, Machine Learning, Data Analytics
 
